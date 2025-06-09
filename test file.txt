@@ -1,4 +1,4 @@
-4.1
+4.2
 
 Adding feature 1 in branch 1
 
@@ -11,3 +11,5 @@ Adding change in main , while br3 was already created, not merged yet (so 4 vs 3
 Adding feature 3 in br3
 
 Adding feature 4.1 in br4
+
+Adding feature 4.2 in br4
