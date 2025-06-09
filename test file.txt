@@ -1,4 +1,7 @@
-2.1
+3
+
 Adding feature 1 in branch 1
 
 Adding feature 2 in br2
+
+Adding change in main , while br2 was already created, not merged yet (so 3 vs 2.1)
